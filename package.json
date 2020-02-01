@@ -1,0 +1,22 @@
+{
+  "name": "arduinoexperiments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaxoncreed/arduinoExperiments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaxoncreed/arduinoExperiments/issues"
+  },
+  "homepage": "https://github.com/jaxoncreed/arduinoExperiments#readme",
+  "dependencies": {
+    "johnny-five": "^1.4.0"
+  }
+}
